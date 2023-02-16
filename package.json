@@ -1,0 +1,27 @@
+{
+  "name": "mnemonicgenerationandpath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MhdShahil/Bip39-Bip44.git"
+  },
+  "author": "shahil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MhdShahil/Bip39-Bip44/issues"
+  },
+  "homepage": "https://github.com/MhdShahil/Bip39-Bip44#readme",
+  "dependencies": {
+    "bip39": "^3.0.4",
+    "dotenv": "^16.0.3",
+    "ethereumjs-tx": "^2.1.2",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^6.0.4",
+    "hdkey": "^2.1.0"
+  }
+}
